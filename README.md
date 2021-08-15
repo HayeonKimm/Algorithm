@@ -1,3 +1,7 @@
+![20200918163925_xyypndmo](https://user-images.githubusercontent.com/85288036/129470788-c43d2974-b7a3-4c34-b30b-f42f4962af9d.png)
+
+
+
 # 목표
 
 1. 알고리즘 능력 향상을 목표로 합니다. (기록하고 반드시 복습합니다.)
@@ -24,3 +28,7 @@
 
 - [이것이 코딩 테스트다](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&ejkGb=EBK&barcode=4801162243078)
 - [파이썬 알고리즘 인터뷰](http://www.yes24.com/Product/Goods/91084402)
+
+
+
+
